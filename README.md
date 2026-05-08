@@ -1,17 +1,17 @@
 # 🏦 Welcome to Pavan Kalyan Perla's FinTech & Innovation Hub
 
 <div align="center">
-
-                                                  ```
-                                                  ╔══════════════════════════════════════════════════════════════╗
-                                                  ║                                                              ║
-                                                  ║  🏦 FINTECH SPECIALIST | FULL STACK ENGINEER | ML EXPERT 🏦 ║
-                                                  ║                                                              ║
-                                                  ║   Building Intelligent Financial & E-Commerce Solutions      ║
-                                                  ║      Bridging Technology, Finance, and Data Science          ║
-                                                  ║                                                              ║
-                                                  ╚══════════════════════════════════════════════════════════════╝
-                                                  ```
+                  
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║  🏦 FINTECH SPECIALIST | FULL STACK ENGINEER | ML EXPERT 🏦 ║
+║                                                              ║
+║   Building Intelligent Financial & E-Commerce Solutions      ║
+║      Bridging Technology, Finance, and Data Science          ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&pause=800&color=FFD700&center=true&vCenter=true&width=700&lines=FinTech+Developer+%7C+Full+Stack+Engineer+%7C+ML+Expert;C%23+.NET+%7C+Python+%7C+Financial+Systems;Building+Insurance+%2C+E-Commerce+%2C+%26+AI+Solutions;Tech+%2B+Finance+%2B+Intelligence+%3D+Impact+%E2%9C%95)]
 
