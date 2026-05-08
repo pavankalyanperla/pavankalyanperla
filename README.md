@@ -2,16 +2,16 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║  🏦 FINTECH SPECIALIST | FULL STACK ENGINEER | ML EXPERT 🏦 ║
-║                                                              ║
-║   Building Intelligent Financial & E-Commerce Solutions      ║
-║      Bridging Technology, Finance, and Data Science          ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+                                                  ```
+                                                  ╔══════════════════════════════════════════════════════════════╗
+                                                  ║                                                              ║
+                                                  ║  🏦 FINTECH SPECIALIST | FULL STACK ENGINEER | ML EXPERT 🏦 ║
+                                                  ║                                                              ║
+                                                  ║   Building Intelligent Financial & E-Commerce Solutions      ║
+                                                  ║      Bridging Technology, Finance, and Data Science          ║
+                                                  ║                                                              ║
+                                                  ╚══════════════════════════════════════════════════════════════╝
+                                                  ```
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&pause=800&color=FFD700&center=true&vCenter=true&width=700&lines=FinTech+Developer+%7C+Full+Stack+Engineer+%7C+ML+Expert;C%23+.NET+%7C+Python+%7C+Financial+Systems;Building+Insurance+%2C+E-Commerce+%2C+%26+AI+Solutions;Tech+%2B+Finance+%2B+Intelligence+%3D+Impact+%E2%9C%95)]
 
@@ -476,7 +476,8 @@ SQL & Databases           ⭐⭐⭐⭐⭐
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavankalyanperla)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pavankalyanperla)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalyanpavan7578@gmail.com)
-[![Phone](https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919177632399)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919177632399)
+[![Phone](https://img.shields.io/badge/-Phone-blue?style=for-the-badge&logo=phone&logoColor=white)](tel:+919177632229)
 
 </div>
 
