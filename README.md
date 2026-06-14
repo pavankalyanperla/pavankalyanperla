@@ -4,12 +4,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+.NET+%2B+Angular+Developer;AI%2FML+Engineer+%7C+Data+Scientist;Building+Intelligent+Enterprise+Systems;Open+to+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-Final-year **B.Tech CSE** @ Lovely Professional University (CGPA: 7.92) · **Data Science & ML Specialization**  
+Final-year **B.Tech CSE** @ Lovely Professional University (CGPA: 7.92)  
+**Data Science & ML Specialization** · **Minor: Financial Markets**  
 20-week **.NET Full Stack Training @ Capgemini** · Based in **Ongole, Andhra Pradesh 🇮🇳**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavankalyanperla)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/pavankalyanperla)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kalyanpavan7578@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/919177632399)
 ![Profile Views](https://komarev.com/ghpvc/?username=pavankalyanperla&color=58A6FF&style=flat)
 
 </div>
@@ -20,9 +22,11 @@ Final-year **B.Tech CSE** @ Lovely Professional University (CGPA: 7.92) · **Dat
 
 I build **production-grade full-stack applications** that combine **.NET microservices, Angular frontends, and Python ML pipelines**. My projects span e-commerce intelligence, InsurTech, AI-powered HR systems, and FinTech — all with real metrics and deployed models.
 
+- 🏦 Finance-aware engineer with a **Minor in Financial Markets** — built production FinTech systems (credit risk, RAG pipelines, insurance platforms) not just tutorials
 - 🏗️ Comfortable with **Clean Architecture, microservice systems, Docker, CI/CD**
 - 🤖 Built and shipped **6 ML models** in production (XGBoost, TF-IDF, Holt-Winters, FinBERT, PyTorch LSTM)
-- 📊 Data Science background with **RAG pipelines, NLP, and ensemble modeling**
+- 📊 Data Science background with **RAG pipelines, NLP, Computer Vision, and ensemble modeling**
+- 🔨 Currently completing **ShopSense (Day 19/21)** — CI/CD, tests & portfolio polish
 - 🎯 Actively targeting roles in **ML Engineering · AI/ML Full Stack · Data Science**
 
 ---
@@ -46,6 +50,7 @@ I build **production-grade full-stack applications** that combine **.NET microse
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 **Infrastructure**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -53,13 +58,14 @@ I build **production-grade full-stack applications** that combine **.NET microse
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🛍️ [ShopSense](https://github.com/pavankalyanperla/ShopSense-Ecommerce) — AI-Powered E-Commerce Intelligence Platform
-> Angular 21 · ASP.NET Core 10 (6 microservices) · 6 Python FastAPI ML services · Ocelot · Docker (17 containers) · SQL Server · Redis · RabbitMQ
+> Angular 21 · ASP.NET Core 10 (6 microservices) · 6 Python FastAPI ML services · Ocelot · Docker (17 containers) · SQL Server · Redis · RabbitMQ · `In Active Development`
 
 21-day build challenge. Full e-commerce platform with a complete AI intelligence layer — recommendations, dynamic pricing, churn prediction, sentiment analysis, demand forecasting, and fraud detection.
 
@@ -89,7 +95,7 @@ Production-grade InsurTech platform covering policy management, claims processin
 ### 💳 CreditIQ — FinTech Credit Risk Intelligence
 > FastAPI · XGBoost · FinBERT · PyTorch LSTM · SHAP · Streamlit · Docker
 
-253 features engineered from 307K+ loan records. 4-model calibrated ensemble with SHAP explainability, FinBERT news sentiment, and LSTM 12-month default forecasting.
+253 features engineered from 307K+ loan records. 4-model calibrated ensemble with SHAP explainability, FinBERT news sentiment scoring, and LSTM 12-month default forecasting.
 
 **XGBoost ROC-AUC: 0.7875 · FinBERT F1: 98.45%** · 🌐 [Live Demo](https://creditiq-api.onrender.com)
 
@@ -106,11 +112,13 @@ RAG pipeline with HNSW vector search and an agentic **Decompose → Retrieve →
 
 | Project | Stack | Highlight |
 |---|---|---|
-| YouTube Comment Sentiment | Python · BART · distilbart · YouTube API · Flask | Zero-shot NLP + summarization |
-| SQL Data Warehouse | SQL Server · ETL · Star Schema | Bronze-Silver-Gold medallion architecture |
-| Telecom Churn Prediction | Python · Logistic Regression · K-Means | 5K+ records, 79.2% accuracy |
-| Airbnb Price Prediction | R · Random Forest | EDA + regression on listing features |
-| BigBasket EDA | Python · Pandas · Matplotlib | Category-level consumer insights |
+| 🤟 Indian Sign Language Translator | PyTorch · CNN · OpenCV | 5K+ gesture images, real-time inference <100ms |
+| 🎬 YouTube Comment Sentiment | Python · BART · distilbart · YouTube API · Flask | Zero-shot NLP + summarization pipeline |
+| 🏢 SQL Data Warehouse | SQL Server · ETL · Star Schema | Bronze-Silver-Gold medallion architecture |
+| 📞 Telecom Churn Prediction | Python · Logistic Regression · K-Means | 5K+ records, 79.2% accuracy |
+| 🏠 Airbnb Price Prediction | R · Random Forest | EDA + regression on listing features |
+| 📈 Tableau Sales Dashboard | Tableau | Sales & customer KPI dashboards |
+| 🛒 BigBasket EDA | Python · Pandas · Matplotlib | Category-level consumer insights |
 
 ---
 
@@ -121,6 +129,8 @@ RAG pipeline with HNSW vector search and an agentic **Decompose → Retrieve →
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavankalyanperla&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF)](https://github.com/pavankalyanperla)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavankalyanperla&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF)](https://github.com/pavankalyanperla)
 
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=pavankalyanperla&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://github.com/pavankalyanperla)
+
 </div>
 
 ---
@@ -129,7 +139,7 @@ RAG pipeline with HNSW vector search and an agentic **Decompose → Retrieve →
 
 | | |
 |---|---|
-| 🎓 **B.Tech CSE** | Lovely Professional University (2022–2026) · CGPA 7.92 · Data Science & ML Specialization (upGrad × LPU) |
+| 🎓 **B.Tech CSE** | Lovely Professional University (2022–2026) · CGPA 7.92 · Data Science & ML Specialization (upGrad × LPU) · **Minor: Financial Markets** |
 | 🏢 **Full Stack .NET Training** | Capgemini — 20-week enterprise developer program (Dec 2025–Present) |
 | 📊 **Data Analysis Training** | Board Infinity |
 | 🏆 **Certifications** | R Programming for Data Analytics (Board Infinity) · Hands-On PyTorch ML (LinkedIn Learning) |
@@ -140,6 +150,6 @@ RAG pipeline with HNSW vector search and an agentic **Decompose → Retrieve →
 
 **Open to full-time roles in ML Engineering · AI/ML Full Stack · Data Science · Full Stack .NET**
 
-📬 [kalyanpavan7578@gmail.com](mailto:kalyanpavan7578@gmail.com) · 📱 +91 9177632399 · [LinkedIn](https://linkedin.com/in/pavankalyanperla)
+📬 [kalyanpavan7578@gmail.com](mailto:kalyanpavan7578@gmail.com) · 📱 [+91 9177632399](https://wa.me/919177632399) · [LinkedIn](https://linkedin.com/in/pavankalyanperla)
 
 </div>
