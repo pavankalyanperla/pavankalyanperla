@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+.NET+%2B+Angular+Developer;AI%2FML+Engineer+%7C+Data+Scientist;Building+Intelligent+Enterprise+Systems;Open+to+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 Final-year **B.Tech CSE** @ Lovely Professional University (CGPA: 7.92)  
-**Data Science & ML Specialization** · **Minor: Financial Markets**  
+**Data Science & ML Specialization** · **Minor: Banking & Financial Markets**  
 20-week **.NET Full Stack Training @ Capgemini** · Based in **Ongole, Andhra Pradesh 🇮🇳**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavankalyanperla)
