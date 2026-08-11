@@ -172,7 +172,7 @@ RAG pipeline with HNSW vector search and an agentic **Decompose → Retrieve →
 
 | | |
 |---|---|
-| 🎓 **B.Tech CSE** | Lovely Professional University (2022–2026) · CGPA 7.92 · Data Science & ML Specialization (upGrad × LPU) · **Minor: Financial Markets** |
+| 🎓 **B.Tech CSE** | Lovely Professional University (2022–2026) · CGPA 8.03 · Data Science & ML Specialization (upGrad × LPU) · **Minor: Financial Markets** |
 | 🏢 **Full Stack .NET Training** | Capgemini — 20-week enterprise developer program (Dec 2025–Present) |
 | 📊 **Data Analysis Training** | Board Infinity |
 | 🏆 **Certifications** | R Programming for Data Analytics (Board Infinity) · Hands-On PyTorch ML (LinkedIn Learning) |
