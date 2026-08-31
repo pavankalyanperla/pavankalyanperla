@@ -6,7 +6,7 @@
 
 Final-year **B.Tech CSE** @ Lovely Professional University (CGPA: 8.03)  
 **Data Science & ML Specialization** · **Minor: Financial Markets**  
-20-week **.NET Full Stack Training @ Capgemini** · Based in **Ongole, Andhra Pradesh 🇮🇳**
+Completed 20-week **.NET Full Stack Training @ Capgemini** · Based in **Ongole, Andhra Pradesh 🇮🇳**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavankalyanperla)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/pavankalyanperla)
