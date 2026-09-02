@@ -2,12 +2,13 @@
 
 # Hi, I'm Pavan Kalyan Perla 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+.NET+%2B+Angular+Developer;AI%2FML+Engineer+%7C+Data+Scientist;Building+Intelligent+Enterprise+Systems;Open+to+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+.NET+%2B+Angular+Developer;AI%2FML+Engineer+%7C+Data+Scientist;Building+Intelligent+Enterprise+Systems;HR+Tech+Intern+%40+V-Mart+Retail+%F0%9F%8F%AC)](https://git.io/typing-svg)
 
 Final-year **B.Tech CSE** @ Lovely Professional University (CGPA: 8.03)  
 **Data Science & ML Specialization** · **Minor: Financial Markets**  
 Completed 20-week **.NET Full Stack Training @ Capgemini** · Based in **Ongole, Andhra Pradesh 🇮🇳**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-58A6FF?style=flat&logo=vercel&logoColor=white)](https://portfolio-website-pavankalyanperla.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavankalyanperla)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/pavankalyanperla)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kalyanpavan7578@gmail.com)
@@ -27,7 +28,7 @@ I build **production-grade full-stack applications** that combine **.NET microse
 - 🤖 Shipped **10+ ML models** in production — from XGBoost & LSTM to FinBERT and transfer-learning CNNs — across FinTech, e-commerce, and computer vision
 - 📊 Data Science background with **RAG pipelines, NLP, Computer Vision, and time-series forecasting**
 - 🔨 Currently building **StreamPulse** — a Kafka-based real-time financial platform, now in AWS deployment
-- 🎯 Actively targeting roles in **ML Engineering · AI/ML Full Stack · Data Science**
+- 🏬 Working as **HR Tech & Data Intern @ V-Mart Retail** (pan-India retail chain, ~554 stores) — building AI automation, RAG pipelines, and workforce analytics under the CHRO office
 
 ---
 
@@ -173,7 +174,7 @@ RAG pipeline with HNSW vector search and an agentic **Decompose → Retrieve →
 | | |
 |---|---|
 | 🎓 **B.Tech CSE** | Lovely Professional University (2022–2026) · CGPA 8.03 · Data Science & ML Specialization (upGrad × LPU) · **Minor: Financial Markets** |
-| 🏢 **Full Stack .NET Training** | Capgemini — 20-week enterprise developer program (Dec 2025–Present) |
+| 🏢 **Full Stack .NET Training** | Capgemini — 20-week enterprise developer program (Dec 2025–May 2026) |
 | 📊 **Data Analysis Training** | Board Infinity |
 | 🏆 **Certifications** | R Programming for Data Analytics (Board Infinity) · Hands-On PyTorch ML (LinkedIn Learning) |
 
@@ -181,8 +182,8 @@ RAG pipeline with HNSW vector search and an agentic **Decompose → Retrieve →
 
 <div align="center">
 
-**Open to full-time roles in ML Engineering · AI/ML Full Stack · Data Science · Full Stack .NET**
+**Currently interning as HR Tech & Data Intern @ V-Mart Retail · Open to full-time roles from 2026**
 
-📬 [kalyanpavan7578@gmail.com](mailto:kalyanpavan7578@gmail.com) · 📱 [+91 9177632399](https://wa.me/919177632399) · [LinkedIn](https://linkedin.com/in/pavankalyanperla)
+🌐 [Portfolio](https://portfolio-website-pavankalyanperla.vercel.app/) · 📬 [kalyanpavan7578@gmail.com](mailto:kalyanpavan7578@gmail.com) · 📱 [+91 9177632399](https://wa.me/919177632399) · [LinkedIn](https://linkedin.com/in/pavankalyanperla)
 
 </div>
