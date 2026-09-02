@@ -6,7 +6,8 @@
 
 Final-year **B.Tech CSE** @ Lovely Professional University (CGPA: 8.03)  
 **Data Science & ML Specialization** · **Minor: Financial Markets**  
-Completed 20-week **.NET Full Stack Training @ Capgemini** · Based in **Ongole, Andhra Pradesh 🇮🇳**
+Completed 20-week **.NET Full Stack Training @ Capgemini** · Based in **Ongole, Andhra Pradesh 🇮🇳**  
+🏬 **HR Tech & Data Intern @ V-Mart Retail** · AI Automation, RAG Pipelines & Workforce Analytics
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-58A6FF?style=flat&logo=vercel&logoColor=white)](https://portfolio-website-pavankalyanperla.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavankalyanperla)
@@ -28,7 +29,7 @@ I build **production-grade full-stack applications** that combine **.NET microse
 - 🤖 Shipped **10+ ML models** in production — from XGBoost & LSTM to FinBERT and transfer-learning CNNs — across FinTech, e-commerce, and computer vision
 - 📊 Data Science background with **RAG pipelines, NLP, Computer Vision, and time-series forecasting**
 - 🔨 Currently building **StreamPulse** — a Kafka-based real-time financial platform, now in AWS deployment
-- 🏬 Working as **HR Tech & Data Intern @ V-Mart Retail** (pan-India retail chain, ~554 stores) — building AI automation, RAG pipelines, and workforce analytics under the CHRO office
+- 🏬 Working as **HR Tech & Data Intern @ V-Mart Retail** (pan-India retail chain, ~600 stores) — building AI automation, RAG pipelines, and workforce analytics under the CHRO office
 
 ---
 
