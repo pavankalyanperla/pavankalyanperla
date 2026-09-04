@@ -183,7 +183,7 @@ RAG pipeline with HNSW vector search and an agentic **Decompose → Retrieve →
 
 <div align="center">
 
-**Currently interning as HR Tech & Data Intern @ V-Mart Retail · Open to full-time roles from 2026**
+**Currently interning as HR Tech & Data Intern @ V-Mart Retail · Open to full-time roles from 2027**
 
 🌐 [Portfolio](https://portfolio-website-pavankalyanperla.vercel.app/) · 📬 [kalyanpavan7578@gmail.com](mailto:kalyanpavan7578@gmail.com) · 📱 [+91 9177632399](https://wa.me/919177632399) · [LinkedIn](https://linkedin.com/in/pavankalyanperla)
 
