@@ -29,7 +29,7 @@ I build **production-grade full-stack applications** that combine **.NET microse
 - 🤖 Shipped **10+ ML models** in production — from XGBoost & LSTM to FinBERT and transfer-learning CNNs — across FinTech, e-commerce, and computer vision
 - 📊 Data Science background with **RAG pipelines, NLP, Computer Vision, and time-series forecasting**
 - 🔨 Currently building **StreamPulse** — a Kafka-based real-time financial platform, now in AWS deployment
-- 🏬 Working as **HR Tech & Data Intern @ V-Mart Retail** (pan-India retail chain, ~600 stores) — building AI automation, RAG pipelines, and workforce analytics under the CHRO office
+- 🏬 Working as **HR Tech & Data Intern @ V-Mart Retail** (pan-India retail chain, ~554 stores) — building AI automation, RAG pipelines, and workforce analytics under the CHRO office
 
 ---
 
@@ -54,16 +54,26 @@ I build **production-grade full-stack applications** that combine **.NET microse
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
+**Automation**  
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat&logo=zapier&logoColor=white)
+
 **Data & Infrastructure**  
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Ocelot](https://img.shields.io/badge/Ocelot_Gateway-512BD4?style=flat&logo=dotnet&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/TimescaleDB-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 ---
