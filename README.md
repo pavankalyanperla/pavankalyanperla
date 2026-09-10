@@ -7,7 +7,7 @@
 Final-year **B.Tech CSE** @ Lovely Professional University (CGPA: 8.03)  
 **Data Science & ML Specialization** · **Minor: Financial Markets**  
 Completed 20-week **.NET Full Stack Training @ Capgemini** · Based in **Ongole, Andhra Pradesh 🇮🇳**  
-🏬 **HR Tech & Data Intern @ V-Mart Retail** · AI Automation, RAG Pipelines & Workforce Analytics
+🏬 **Data Transformation Intern @ V-Mart Retail** · AI Automation, RAG Pipelines & Workforce Analytics
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-58A6FF?style=flat&logo=vercel&logoColor=white)](https://portfolio-website-pavankalyanperla.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavankalyanperla)
@@ -82,7 +82,7 @@ I build **production-grade full-stack applications** that combine **.NET microse
 
 ### 🏗️ Full-Stack Platforms
 
-#### ⚡ StreamPulse — Real-Time Financial Intelligence Platform `🚧 In Progress`
+#### ⚡ StreamPulse — Real-Time Financial Intelligence Platform `🚧 In Progress.`
 > Apache Kafka · ASP.NET Core 10 · Angular 21 + PrimeNG Aura · Python FastAPI · TimescaleDB · Redis · SignalR · Prometheus + Grafana · AWS EC2
 
 Event-driven platform processing live stock ticks through Kafka, with Python ML microservices for LSTM price forecasting, Isolation Forest anomaly detection, and news sentiment analysis — delivered to an Angular dashboard in real time over SignalR WebSockets, with full observability via Prometheus + Grafana.
@@ -193,7 +193,7 @@ RAG pipeline with HNSW vector search and an agentic **Decompose → Retrieve →
 
 <div align="center">
 
-**Currently interning as HR Tech & Data Intern @ V-Mart Retail · Open to full-time roles from 2027**
+**Currently interning as Data Transformation Intern @ V-Mart Retail · Open to full-time roles from 2027**
 
 🌐 [Portfolio](https://portfolio-website-pavankalyanperla.vercel.app/) · 📬 [kalyanpavan7578@gmail.com](mailto:kalyanpavan7578@gmail.com) · 📱 [+91 9177632399](https://wa.me/919177632399) · [LinkedIn](https://linkedin.com/in/pavankalyanperla)
 
