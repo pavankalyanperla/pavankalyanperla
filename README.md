@@ -7,7 +7,7 @@
 Final-year **B.Tech CSE** @ Lovely Professional University (CGPA: 8.03)  
 **Data Science & ML Specialization** · **Minor: Financial Markets**  
 Completed 20-week **.NET Full Stack Training @ Capgemini** · Based in **Ongole, Andhra Pradesh 🇮🇳**  
-🏬 **Data Transformation Intern @ V-Mart Retail** · AI Automation, RAG Pipelines & Workforce Analytics
+🏬 **Digital Transformation Intern @ V-Mart Retail** · AI Automation, RAG Pipelines & Workforce Analytics
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-58A6FF?style=flat&logo=vercel&logoColor=white)](https://portfolio-website-pavankalyanperla.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pavankalyanperla)
@@ -24,12 +24,12 @@ Completed 20-week **.NET Full Stack Training @ Capgemini** · Based in **Ongole,
 
 I build **production-grade full-stack applications** that combine **.NET microservices, Angular frontends, and Python ML pipelines**. My projects span e-commerce intelligence, InsurTech, real-time financial systems, and computer vision — all with real metrics and deployed models.
 
-- 🏦 Finance-aware engineer with a **Minor in Financial Markets** — built production FinTech systems (credit risk, real-time market intelligence, RAG pipelines) not just tutorials
+- 🏦 Finance-aware engineer with a **Minor in Financial Markets** — built production FinTech systems (credit risk, real-time market intelligence, RAG pipelines), not just tutorials
 - 🏗️ Comfortable with **Clean Architecture, microservices, event-driven systems (Kafka), Docker, CI/CD**
 - 🤖 Shipped **10+ ML models** in production — from XGBoost & LSTM to FinBERT and transfer-learning CNNs — across FinTech, e-commerce, and computer vision
 - 📊 Data Science background with **RAG pipelines, NLP, Computer Vision, and time-series forecasting**
 - 🔨 Currently building **StreamPulse** — a Kafka-based real-time financial platform, now in AWS deployment
-- 🏬 Working as **HR Tech & Data Intern @ V-Mart Retail** (pan-India retail chain, ~554 stores) — building AI automation, RAG pipelines, and workforce analytics under the CHRO office
+- 🏬 Working as **Digital Transformation Intern @ V-Mart Retail** (pan-India retail chain, ~600 stores) — building AI automation, RAG pipelines, and workforce analytics under the CHRO office
 
 ---
 
@@ -193,7 +193,7 @@ RAG pipeline with HNSW vector search and an agentic **Decompose → Retrieve →
 
 <div align="center">
 
-**Currently interning as Data Transformation Intern @ V-Mart Retail · Open to full-time roles from 2027**
+**Currently interning as Digital Transformation Intern @ V-Mart Retail · Open to full-time roles from 2027**
 
 🌐 [Portfolio](https://portfolio-website-pavankalyanperla.vercel.app/) · 📬 [kalyanpavan7578@gmail.com](mailto:kalyanpavan7578@gmail.com) · 📱 [+91 9177632399](https://wa.me/919177632399) · [LinkedIn](https://linkedin.com/in/pavankalyanperla)
 
