@@ -95,7 +95,7 @@ Event-driven platform processing live stock ticks through Kafka, with Python ML 
 
 ---
 
-#### 🛍️ [ShopSense](https://github.com/pavankalyanperla/ShopSense-Ecommerce) — AI-Powered E-Commerce Intelligence Platform `✅ Completed`
+#### 🛍️ [ShopSense](https://github.com/pavankalyanperla/ShopSense-Ecommerce) — AI-Powered E-Commerce Intelligence Platform 
 > Angular 21 · ASP.NET Core 10 (6 microservices) · 6 Python FastAPI ML services · Ocelot · Docker (17 containers) · SQL Server · Redis · RabbitMQ
 
 21-day build. Full e-commerce platform with a complete AI intelligence layer — recommendations, dynamic pricing, churn prediction, sentiment analysis, demand forecasting, and fraud detection.
