@@ -2,7 +2,7 @@
 
 # Hola, Soy Pavan Kalyan Perla 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+.NET+%2B+Angular+Developer;AI%2FML+Engineer+%7C+Data+Scientist;Building+Intelligent+Enterprise+Systems;HR+Tech+Intern+%40+V-Mart+Retail+%F0%9F%8F%AC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+.NET+%2B+Angular+Developer;AI%2FML+Engineer+%7C+Data+Scientist;Building+Intelligent+Enterprise+Systems;Digital+Transformation+Intern+%40+V-Mart+Retail+%F0%9F%8F%AC)](https://git.io/typing-svg)
 
 Final-year **B.Tech CSE** @ Lovely Professional University (CGPA: 8.03)  
 **Data Science & ML Specialization** · **Minor: Financial Markets**  
